@@ -35,6 +35,8 @@ trap _SMATRPSIGNAL_ HUP INT TERM
 trap _SMATRPQUIT_ QUIT 
 
 cd "$JDR"
+# Usage: _AT_ organization/repository commit
+# Usage: _AT_ user/repository commit
 _AT_ FatMonkeySmile/android-dice-game 86ba2baca008de3172aa1e1442f0db09614e27e1
 _AT_ ge0rg/gamemasterdice 2b7e3c848111cdd2186efea3b6196c6f62e5cb18
 _AT_ jareens/dudo 4034fd2bf52b28c5b55efd70a181862517dece6c
@@ -62,4 +64,4 @@ _AT_ VelbazhdSoftwareLLC/tuty-fruty-slot-for-android d56053e64262afb4b9fe13e2e96
 _AT_ zipzapdat/AndroFish d7f45f5873696f9ce5669dcbf3be2600f293b021
 _AT_ zipzapdat/opensudoku-android c45e5c5d4f8225349b2fd61ad6569f289ebdc930
 
-#OEF
+# ma.bash OEF
