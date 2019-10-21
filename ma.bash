@@ -42,7 +42,7 @@ _AT_ jogordon/BomberMan-for-Android 27545a47f5a08d93733843a8273fa51f5e747f94
 _AT_ krixisLv/ShootEmOff c7037296481302c8377e45ba8f8fbf2a0d293101
 _AT_ ktom2135/CoreGame cfb94a86e0f17e38f9910c5da6f134aed045d5bc
 _AT_ meoblast001/thugaim f4871f8cebff83b0b029aec9d7e0132dd10b26fc
-# _AT_ madisp/divide-and-conquer 60678a006c234d0c55a7ef6554f2755201b25841
+_AT_ madisp/divide-and-conquer 60678a006c234d0c55a7ef6554f2755201b25841
 _AT_ mobilepearls/com.mobilepearls.memory bc469667974bee2b0750e8474a0844999ed87fbc
 _AT_ mobilepearls/com.mobilepearls.react 7587ad8826dd5dd82c540d34d1bb6f2a009e3819
 _AT_ ppelleti/AndFish 6e64e9960402fd98f2ce85c2531606c6388b7bfb
