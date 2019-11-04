@@ -37,6 +37,7 @@ trap _SMATRPQUIT_ QUIT
 cd "$JDR"
 # Usage: _AT_ organization/repository commit
 # Usage: _AT_ user/repository commit
+_AT_ Bubu/android-dice-game 71848a88e4b47a74a9cf775f0bbb4543c8d69de4
 _AT_ FatMonkeySmile/android-dice-game 86ba2baca008de3172aa1e1442f0db09614e27e1
 _AT_ ge0rg/gamemasterdice 2b7e3c848111cdd2186efea3b6196c6f62e5cb18
 _AT_ jareens/dudo 4034fd2bf52b28c5b55efd70a181862517dece6c
