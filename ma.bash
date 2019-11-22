@@ -44,6 +44,7 @@ _AT_ jareens/dudo 4034fd2bf52b28c5b55efd70a181862517dece6c
 _AT_ jogordon/BomberMan-for-Android 27545a47f5a08d93733843a8273fa51f5e747f94
 _AT_ krixisLv/ShootEmOff c7037296481302c8377e45ba8f8fbf2a0d293101
 _AT_ ktom2135/CoreGame cfb94a86e0f17e38f9910c5da6f134aed045d5bc
+_AT_ masokotanga/ReplicaIsland c5b96785167503f63b4f3dbd4e382daec16ee22e
 _AT_ meoblast001/thugaim f4871f8cebff83b0b029aec9d7e0132dd10b26fc
 # _AT_ madisp/divide-and-conquer 60678a006c234d0c55a7ef6554f2755201b25841
 _AT_ mobilepearls/com.mobilepearls.memory bc469667974bee2b0750e8474a0844999ed87fbc
