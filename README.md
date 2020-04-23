@@ -13,7 +13,7 @@ cd && git clone https://github.com/BuildAPKs/buildAPKs
 
 ```
 
-[buildAPKs.games](https://buildapks.github.io/buildAPKs.games)
+[![Screenshot_20200423-114419.png](https://raw.githubusercontent.com/BuildAPKs/docsBuildAPKs/master/bitpics/screenshots/Screenshot_20200423-114419.png)](https://raw.githubusercontent.com/BuildAPKs/docsBuildAPKs/master/bitpics/screenshots/Screenshot_20200423-114419.png)
 
 See [buildAPKs](https://github.com/BuildAPKs/buildAPKs/) for information regarding this project.
 
