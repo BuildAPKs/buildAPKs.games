@@ -45,6 +45,7 @@ _AT_ iidukat/google-pacman 68067fe4809dc25062f4396bef9f50f0c9c8cd5e
 _AT_ jackpal/glesquake 823b728ed3a98b082592e5b5cc8bef4232806ab2
 _AT_ jareens/dudo 4034fd2bf52b28c5b55efd70a181862517dece6c
 _AT_ jogordon/BomberMan-for-Android 27545a47f5a08d93733843a8273fa51f5e747f94
+_AT_ julioterra/Bumper_Car_Maze_Game bb5485c47baa12c6a86100c3decbed554d1300b1
 _AT_ krixisLv/ShootEmOff c7037296481302c8377e45ba8f8fbf2a0d293101
 _AT_ ktom2135/CoreGame cfb94a86e0f17e38f9910c5da6f134aed045d5bc
 _AT_ masokotanga/ReplicaIsland c5b96785167503f63b4f3dbd4e382daec16ee22e
@@ -73,5 +74,4 @@ _AT_ VelbazhdSoftwareLLC/TriPeaksSolitaireForAndroid db27b546c7b6c14d612f415a56e
 _AT_ VelbazhdSoftwareLLC/tuty-fruty-slot-for-android d56053e64262afb4b9fe13e2e96bd8d4f6e394cb
 _AT_ zipzapdat/AndroFish d7f45f5873696f9ce5669dcbf3be2600f293b021
 _AT_ zipzapdat/opensudoku-android c45e5c5d4f8225349b2fd61ad6569f289ebdc930
-
 # ma.bash OEF
