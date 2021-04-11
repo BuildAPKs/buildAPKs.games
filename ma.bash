@@ -45,6 +45,7 @@ _AT_ FatMonkeySmile/android-dice-game 86ba2baca008de3172aa1e1442f0db09614e27e1
 _AT_ ge0rg/gamemasterdice 2b7e3c848111cdd2186efea3b6196c6f62e5cb18
 _AT_ iidukat/google-pacman 68067fe4809dc25062f4396bef9f50f0c9c8cd5e
 _AT_ jackpal/glesquake 823b728ed3a98b082592e5b5cc8bef4232806ab2
+_AT_ JamieDelton/android_game_examples 9d65f96aff5d60a2e765d8db894b7eb3fd02c315
 _AT_ jareens/dudo 4034fd2bf52b28c5b55efd70a181862517dece6c
 _AT_ javatai/android_game_examples 9d65f96aff5d60a2e765d8db894b7eb3fd02c315
 _AT_ jogordon/BomberMan-for-Android 27545a47f5a08d93733843a8273fa51f5e747f94
@@ -74,5 +75,6 @@ _AT_ VelbazhdSoftwareLLC/SvarkaOddsCalculator a7b8faf49531fd22e5d6e76a287e28460d
 _AT_ VelbazhdSoftwareLLC/TriPeaksSolitaireForAndroid db27b546c7b6c14d612f415a56e1ef32e8701f26
 _AT_ VelbazhdSoftwareLLC/tuty-fruty-slot-for-android d56053e64262afb4b9fe13e2e96bd8d4f6e394cb
 _AT_ zipzapdat/AndroFish d7f45f5873696f9ce5669dcbf3be2600f293b021
-# ma.bash OEF
 _AT_ zipzapdat/opensudoku-android c45e5c5d4f8225349b2fd61ad6569f289ebdc930
+_AT_ Zorro666/LJ_GridLocked cc1b8ea91021e1e353e22b86e56b26bf15755945
+# ma.bash OEF
