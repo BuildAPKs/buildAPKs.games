@@ -37,6 +37,7 @@ trap _SMATRPQUIT_ QUIT
 cd "$JDR"
 # Usage: _AT_ organization/repository commit
 # Usage: _AT_ user/repository commit
+_AT_ arjunr/WorldOfWords_Android 3f278c3310a624c5e3e7cdcd3073ca54b828adca
 _AT_ AlexandreG/Artifact c75cc7932e4c9a72a1e47409d7d66e4decd217b3
 _AT_ Arcanjo07/Poker-Table ab233f7bec6b113e35960fa20bf3a931b7b7935b
 _AT_ Bubu/android-dice-game 71848a88e4b47a74a9cf775f0bbb4543c8d69de4
@@ -60,6 +61,7 @@ _AT_ meoblast001/thugaim f4871f8cebff83b0b029aec9d7e0132dd10b26fc
 _AT_ mess110/CarrotRush 0408517dd8e246286e7ba0823602a7c8788ba6fe
 _AT_ mobilepearls/com.mobilepearls.memory bc469667974bee2b0750e8474a0844999ed87fbc
 _AT_ mobilepearls/com.mobilepearls.react 7587ad8826dd5dd82c540d34d1bb6f2a009e3819
+_AT_ Peter-Vanderlinden/Hydra 4fdbeb181f02852944ba5b861adab78b6de71368
 _AT_ ppelleti/AndFish 6e64e9960402fd98f2ce85c2531606c6388b7bfb
 _AT_ quaap/DodaTheExploda 4885fbfa4ad12832baa92ee10cd010365ee51af9
 _AT_ quaap/SeafoodBerserker 498ba1126418184781a8a606556c581049b70fb7
@@ -81,5 +83,4 @@ _AT_ VelbazhdSoftwareLLC/tuty-fruty-slot-for-android d56053e64262afb4b9fe13e2e96
 _AT_ zipzapdat/AndroFish d7f45f5873696f9ce5669dcbf3be2600f293b021
 _AT_ zipzapdat/opensudoku-android c45e5c5d4f8225349b2fd61ad6569f289ebdc930
 _AT_ Zorro666/LJ_GridLocked cc1b8ea91021e1e353e22b86e56b26bf15755945
-_AT_ arjunr/WorldOfWords_Android 3f278c3310a624c5e3e7cdcd3073ca54b828adca
 # buildAPKs.games ma.bash OEF
