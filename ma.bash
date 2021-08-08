@@ -81,4 +81,5 @@ _AT_ VelbazhdSoftwareLLC/tuty-fruty-slot-for-android d56053e64262afb4b9fe13e2e96
 _AT_ zipzapdat/AndroFish d7f45f5873696f9ce5669dcbf3be2600f293b021
 _AT_ zipzapdat/opensudoku-android c45e5c5d4f8225349b2fd61ad6569f289ebdc930
 _AT_ Zorro666/LJ_GridLocked cc1b8ea91021e1e353e22b86e56b26bf15755945
+_AT_ arjunr/WorldOfWords_Android 3f278c3310a624c5e3e7cdcd3073ca54b828adca
 # buildAPKs.games ma.bash OEF
