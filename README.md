@@ -13,4 +13,4 @@ https://raw.githubusercontent.com/BuildAPKs/docsBuildAPKs/master/bitpics/screens
 
 Please see [buildAPKs](https://github.com/BuildAPKs/buildAPKs/) for information regarding this project.
 
-README EOF
+<!-- README EOF -->
