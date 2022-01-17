@@ -40,6 +40,7 @@ cd "$JDR"
 _AT_ arjunr/WorldOfWords_Android 3f278c3310a624c5e3e7cdcd3073ca54b828adca
 _AT_ AlexandreG/Artifact c75cc7932e4c9a72a1e47409d7d66e4decd217b3
 _AT_ Arcanjo07/Poker-Table ab233f7bec6b113e35960fa20bf3a931b7b7935b
+_AT_ AqleemMakhdoomi/JumbleWord 5930eedffe97f10eaf8800a6a906cff2db8c468d
 _AT_ Bubu/android-dice-game 71848a88e4b47a74a9cf775f0bbb4543c8d69de4
 _AT_ bsstoner/HighLow d74ae50e2e6dc3ca0d10b24153c28352a787774c
 _AT_ dozingcat/dodge-android 1f22ac406c56e5999244d5fb9b6d506914edf263
